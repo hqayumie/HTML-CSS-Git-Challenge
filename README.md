@@ -3,4 +3,5 @@ I viewed the started code that was provided and added semantic HTML elements tha
 
 
 ![E10E31C2-AF8E-430B-B522-6FB6187450AC](https://user-images.githubusercontent.com/110688175/185513989-a89febc8-564d-45e7-8785-b5aca2d3f0c2.jpeg) 
-        <a href="https://hqayumie.github.io/HTML-CSS-Git-Challenge/" target="_blank">HTML-CSS-Git-Challenge</a>                                                                             
+      
+                                                                                  
